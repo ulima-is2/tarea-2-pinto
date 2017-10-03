@@ -1,0 +1,5 @@
+Dependency Inversion: Ya que te pide escoger un cine para poder mostrarte la cartelera.
+
+Interface Segregation: La interfaz tiene muchas operaciones para poder lograr el objetivo de obtener la entrada.
+
+Open/Closed: Deberia ser posible agregar un nuevo cine.
